@@ -46,5 +46,16 @@ th,
 td {
 	border: 1px solid #ccc;
 	padding: 12px;
+	text-align: left;
 }
-thea
+thead {
+	background-color: #444;
+	color: white;
+}
+tfoot td {
+	text-align: center;
+}
+tfoot tr {
+	font-style: italic;
+	border-top: 2px;
+}
