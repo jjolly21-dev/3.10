@@ -36,3 +36,15 @@ Nav a {
 Nav a:hover {
 	background-color: #555;
 }
+table {
+	width: 100%;
+	border-collapse: collapse;
+	border: solid 1px #ccc;
+	padding: 12px;
+}
+th,
+td {
+	border: 1px solid #ccc;
+	padding: 12px;
+}
+thea
